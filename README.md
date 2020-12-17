@@ -337,6 +337,8 @@ The following icons are either being worked on or have been suggested. If you ha
 - [ ] mpv
 - [x] qBittorrent
 - [ ] smcFanControl
+- [ ] Instagram Chats
+
 
 ## Credits
 
@@ -942,4 +944,8 @@ We do not intend to steal any one's icons, if your icon has been included and yo
 |                                                 | Lumen                                          |
 |                                                 | GOG Galaxy Alt                                 |
 |                                                 | Monero Wallet                                  |
-| [Jonathan Simcoe](https://jdsimcoe.com/)        | Alacritty                                      |
+| [Jonathan Simcoe](https://jdsimcoe.com/)        | Alacritty       
+|
+| [Agit Rubar Demir](https://github.com/agitrubard/) | Gmail
+|                                                    | Instagram Chats
+|
